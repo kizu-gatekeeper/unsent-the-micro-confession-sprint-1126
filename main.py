@@ -1,4 +1,7 @@
-"""Entry for make.fun: Unsent: The Micro-Confession Sprint."""
+"""Entry for make.fun: Unsent: The Micro-Confession Sprint.
+
+A To: line plus the one line that was typed and never sent.
+"""
 import os
 
 LINE = "To: my dad\ni kept the voicemail where you forgot my name mid-sentence. i play it when i need to remember why i stopped calling first"
